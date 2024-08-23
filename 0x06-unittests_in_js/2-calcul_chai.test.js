@@ -47,3 +47,4 @@ describe('calculateNumber', () => {
 			expect(calculateNumber('DIVIDE', 1.4, 0)).to.equal('Error');
 		});
 	});
+});
